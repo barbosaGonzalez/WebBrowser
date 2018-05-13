@@ -1,0 +1,36 @@
+c:\users\edsel\documents\visual studio 2012\Projects\Facebook BOT\Facebook BOT\bin\Debug\Facebook BOT.exe.config
+c:\users\edsel\documents\visual studio 2012\Projects\Facebook BOT\Facebook BOT\bin\Debug\Facebook BOT.exe
+c:\users\edsel\documents\visual studio 2012\Projects\Facebook BOT\Facebook BOT\bin\Debug\Facebook BOT.pdb
+c:\users\edsel\documents\visual studio 2012\Projects\Facebook BOT\Facebook BOT\obj\Debug\Facebook BOT.csprojResolveAssemblyReference.cache
+c:\users\edsel\documents\visual studio 2012\Projects\Facebook BOT\Facebook BOT\obj\Debug\Facebook_BOT.Form1.resources
+c:\users\edsel\documents\visual studio 2012\Projects\Facebook BOT\Facebook BOT\obj\Debug\Facebook_BOT.Properties.Resources.resources
+c:\users\edsel\documents\visual studio 2012\Projects\Facebook BOT\Facebook BOT\obj\Debug\Facebook BOT.csproj.GenerateResource.Cache
+c:\users\edsel\documents\visual studio 2012\Projects\Facebook BOT\Facebook BOT\obj\Debug\Facebook BOT.exe
+c:\users\edsel\documents\visual studio 2012\Projects\Facebook BOT\Facebook BOT\obj\Debug\Facebook BOT.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha\Facebook BOT\bin\Debug\Facebook BOT.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha\Facebook BOT\obj\Debug\Facebook BOT.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha\Facebook BOT\obj\Debug\Facebook BOT.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha\Facebook BOT\bin\Debug\Facebook BOT.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha\Facebook BOT\bin\Debug\Facebook BOT.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha\Facebook BOT\obj\Debug\Facebook BOT.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha\Facebook BOT\obj\Debug\Facebook_BOT.Form1.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha\Facebook BOT\obj\Debug\Facebook_BOT.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha\Facebook BOT\obj\Debug\Facebook BOT.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha y pagina de internet\Facebook BOT\bin\Debug\Facebook BOT.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha y pagina de internet\Facebook BOT\obj\Debug\Facebook BOT.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha y pagina de internet\Facebook BOT\obj\Debug\Facebook BOT.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha y pagina de internet\Facebook BOT\bin\Debug\Facebook BOT.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha y pagina de internet\Facebook BOT\bin\Debug\Facebook BOT.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha y pagina de internet\Facebook BOT\obj\Debug\Facebook BOT.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha y pagina de internet\Facebook BOT\obj\Debug\Facebook_BOT.Form1.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha y pagina de internet\Facebook BOT\obj\Debug\Facebook_BOT.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Captcha y pagina de internet\Facebook BOT\obj\Debug\Facebook BOT.csproj.GenerateResource.Cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Pagina de internet\Facebook BOT\bin\Debug\Facebook BOT.exe.config
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Pagina de internet\Facebook BOT\obj\Debug\Facebook BOT.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Pagina de internet\Facebook BOT\obj\Debug\Facebook BOT.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Pagina de internet\Facebook BOT\bin\Debug\Facebook BOT.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Pagina de internet\Facebook BOT\bin\Debug\Facebook BOT.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Pagina de internet\Facebook BOT\obj\Debug\Facebook BOT.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Pagina de internet\Facebook BOT\obj\Debug\Facebook_BOT.Form1.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Pagina de internet\Facebook BOT\obj\Debug\Facebook_BOT.Properties.Resources.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Pagina de internet\Facebook BOT\obj\Debug\Facebook BOT.csproj.GenerateResource.Cache
